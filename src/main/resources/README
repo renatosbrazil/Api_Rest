@@ -1,5 +1,7 @@
 foi criado a API conectando com o banco mysql
-não está habilitado para criar a database ao startar o projeto, primeiro deve criar a database e depois iniciar o projeto
-dentro do Navita.sql tem massa para testes
+quando o projeto starta ele cria automaticamente as tabelas
+dentro de Resources > Massa.sql tem  massa para testes
 
-também enviei para importar o testes no postman
+também enviei para importar o testes no postman com os ends points
+
+ 
